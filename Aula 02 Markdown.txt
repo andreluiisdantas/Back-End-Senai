@@ -1,0 +1,27 @@
+LINGUAGEM MARKDOWN
+
+
+O QUE É MARKDOWN?
+
+O Markdown é uma linguagem de marcação de texto. O Markdown permite que o usuário escreva e formate texto utilizando uma sintaxe simples, o que facilita a leitura do conteúdo.
+Também pode ser convetido em HTML, através de um software especifico.
+Neste caso por ele ser uma linguagem mais simples, é possivel formatar algum texto utilizando apenas marcadores, como underline ou asteriscos, 
+sem a necessidade abrir e fechar Tags.
+Além de ser facil de ser escrito o Markdown também pode ser editado em quase todos softwares de edição de texto.
+
+RECURSOS
+
+Muito paracido com o HTML, porém com uma sintaxe diferente, no Markdown é possivel:
+- Fazer cabeçalhos em niveis diferentes
+- Adicionar textos
+- Deixar o texto em negrito/italico
+- Criar listas
+- Criar listas enumeradas
+- Adicionar imagem
+- Adicionar links
+- Fazer tabelas entre
+
+
+REFERÊNCIAS:
+https://tecnoblog.net/responde/o-que-e-markdown/
+https://experienceleague.adobe.com/pt-br/docs/contributor/contributor-guide/writing-essentials/markdown
