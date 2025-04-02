@@ -1,7 +1,7 @@
 import re
 
 cpf = input("Digite seu CPF: ")
-padrao = r"^\d{3}.\d{3}.\d{3}-\d{2}$"
+padrao = r"^\d{3}[.]\d{3}[.]\d{3}[-]\d{2}$"
 valido = re.match(padrao, cpf)
 
 if valido:
